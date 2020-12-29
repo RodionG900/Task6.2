@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572084807 source:c:\users\user\desktop\Программирование\3 семестр\set 1.2\main.cpp
+	<iostream>
+	<set>
+	<iterator>
+	<string>
+	<stdlib.h>
+
